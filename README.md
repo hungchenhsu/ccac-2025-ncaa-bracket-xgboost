@@ -1,4 +1,4 @@
-# NCAA Basketball Bracket Prediction (Kaggle Competition) [3rd Place]
+# NCAA Bracket Prediction using XGBoost – CCAC 2025 (Kaggle Competition)
 
 ## 🏀 Project Overview
 
