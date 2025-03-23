@@ -54,7 +54,7 @@ Dataset source: [Crossroads Classic Analytics Challenge 2025 (Kaggle)](https://w
 
 ### Step 4: Ensembling & Final Predictions
 - Tested multiple hyperparameter configurations and selected the best-performing model based on validation accuracy.
-- Generated final predictions for Kaggle submission, achieving our highest public leaderboard ranking.
+- Generated final predictions for Kaggle submission, achieving our highest public (2nd Place) and private (3rd Place) leaderboard ranking.
 
 ## 📖 Table of Contents
 
