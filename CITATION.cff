@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below:"
+authors:
+  - family-names: Hsu
+    given-names: Hung-Chen
+title: "NCAA Basketball Bracket Prediction (CCAC 2025) using XGBoost"
+version: "1.0"
+date-released: 2025-03-22
+url: "https://github.com/hungchenhsu/ccac-2025-ncaa-bracket-xgboost"
+repository-code: "https://github.com/hungchenhsu/ccac-2025-ncaa-bracket-xgboost"
+license: "MIT"
+keywords:
+  - NCAA
+  - Bracket Prediction
+  - XGBoost
+  - Kaggle
+  - Machine Learning
