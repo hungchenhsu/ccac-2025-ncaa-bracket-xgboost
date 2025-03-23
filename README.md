@@ -6,6 +6,8 @@ This repository contains our complete solution for the "NCAA Basketball Bracket 
 
 We used **XGBoost**, a powerful gradient-boosted decision tree model, combined with comprehensive feature engineering and hyperparameter tuning to optimize predictions.
 
+[CCAC Official Website](https://crossroadsclassicanalyticschallenge.com)
+
 ## 📌 Motivation & Technology
 
 ### Why XGBoost?
