@@ -20,15 +20,13 @@ We used **XGBoost**, a powerful gradient-boosted decision tree model, combined w
 
 ## 📚 Repository Contents
 
-Dataset source: [Crossroads Classic Analytics Challenge 2025 (Kaggle)](https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-25/data)
+Note: Final submission files and competition datasets are not included in this repository due to Kaggle’s competition data rules. Please refer to the [official dataset](https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-25/data) to download required files after accepting the competition rules.
 
 - `bracket_training.csv`: Training dataset provided by Kaggle.
 - `bracket_test.csv`: Testing dataset for generating predictions.
 - `CCAC 2025 - Institutions.csv`: Additional information about institutions.
-- `Division I Women_s Basketball Contests.csv`: Historical contest data used for additional feature engineering.
 - `submission_template.csv`: Template for Kaggle submission.
-- `optimized_ensemble_submission.csv`: Our final submission file.
-- **Final Notebook** (`notebook.ipynb`): Complete Python script containing:
+- **Final Notebook** (`ccac2025_ncaa_bracket_prediction.ipynb`): Complete Python script containing:
   - Data Loading
   - Preprocessing & Cleaning
   - Feature Engineering
