@@ -73,6 +73,14 @@ Note: Final submission files and competition datasets are not included in this r
 - **Best Public Score:** 0.63070
 - **Best Private Score:** 0.63324
 
+## 🖼️ Project Presentation
+
+For a full overview of this project in presentation format, please see:  
+[📄 CCAC 2025 – Nimbus 2025 Team Presentation (PDF)](docs/ccac2025_nimbus2025_presentation.pdf)
+
+This presentation was created by **Nimbus 2025**,  
+a team led by **Hung-Chen Hsu**, with teammates **Da Fang Lin** and **Yiran Liu**.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
