@@ -89,4 +89,4 @@ This helps acknowledge the original work and supports open sharing in the ML com
 
 ---
 
-Created with 💻 and 🎯 by [Hung-Chen Hsu]
+Created with 💻 and 🎯 by Hung-Chen Hsu
