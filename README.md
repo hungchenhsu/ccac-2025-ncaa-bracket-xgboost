@@ -4,7 +4,7 @@
 
 This repository contains our complete solution for the "NCAA Basketball Bracket Prediction" Kaggle competition. The primary goal was to predict outcomes of the NCAA Basketball Tournament matches accurately. Our final model ranked **3rd** on the private leaderboard.
 
-We employed **XGBoost**, a powerful gradient-boosted decision tree model, combined with comprehensive feature engineering and hyperparameter tuning to optimize predictions.
+We used **XGBoost**, a powerful gradient-boosted decision tree model, combined with comprehensive feature engineering and hyperparameter tuning to optimize predictions.
 
 ## 📌 Motivation & Technology
 
