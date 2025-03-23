@@ -20,13 +20,15 @@ We employed **XGBoost**, a powerful gradient-boosted decision tree model, combin
 
 ## 📚 Repository Contents
 
+Dataset source: [Crossroads Classic Analytics Challenge 2025 (Kaggle)](https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-25/data)
+
 - `bracket_training.csv`: Training dataset provided by Kaggle.
 - `bracket_test.csv`: Testing dataset for generating predictions.
 - `CCAC 2025 - Institutions.csv`: Additional information about institutions.
 - `Division I Women_s Basketball Contests.csv`: Historical contest data used for additional feature engineering.
 - `submission_template.csv`: Template for Kaggle submission.
 - `optimized_ensemble_submission.csv`: Our final submission file.
-- **Final Notebook/Script** (`main.py` or `notebook.ipynb`): Complete Python script containing:
+- **Final Notebook** (`notebook.ipynb`): Complete Python script containing:
   - Data Loading
   - Preprocessing & Cleaning
   - Feature Engineering
@@ -89,4 +91,4 @@ This helps acknowledge the original work and supports open sharing in the ML com
 
 ---
 
-Created with 💻 and 🎯 by [Nimbus 2025, A Team Led by Hung-Chen Hsu w/ Teammates: Da Fang Lin, Yiran Liu]
+Created with 💻 and 🎯 by [Hung-Chen Hsu]
