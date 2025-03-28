@@ -75,7 +75,7 @@ Note: Final submission files and competition datasets are not included in this r
 - **Best Public Score:** 0.63070
 - **Best Private Score:** 0.63324
 
-![3rd Place](https://raw.githubusercontent.com/hungchenhsu/ccac-2025-ncaa-bracket-xgboost/main/images/3rd-Place.png)
+![3rd Place](https://github.com/hungchenhsu/ccac-2025-ncaa-bracket-xgboost/blob/main/images/3rd-Place.png)
 
 ## 🖼️ Project Presentation
 
