@@ -22,7 +22,7 @@ We used **XGBoost**, a powerful gradient-boosted decision tree model, combined w
 
 ## 📚 Repository Contents
 
-Note: Final submission files and competition datasets are not included in this repository due to Kaggle’s competition data rules. Please refer to the [official dataset](https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-25/data) to download required files after accepting the competition rules.
+> ⚠️ **Note:** Final submission files and competition datasets are not included in this repository due to Kaggle’s competition data rules. Please refer to the [official dataset](https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-25/data) to download required files after accepting the competition rules.
 
 - `bracket_training.csv`: Training dataset provided by Kaggle.
 - `bracket_test.csv`: Testing dataset for generating predictions.
