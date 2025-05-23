@@ -8,6 +8,8 @@ We used **XGBoost**, a powerful gradient-boosted decision tree model, combined w
 
 [CCAC Official Website](https://crossroadsclassicanalyticschallenge.com)
 
+---
+
 ## 📌 Motivation & Technology
 
 ### Why XGBoost?
@@ -19,6 +21,24 @@ We used **XGBoost**, a powerful gradient-boosted decision tree model, combined w
 ### Why Feature Engineering?
 - Captures nuanced interactions between teams, regional factors, and historical performance metrics.
 - Provides more predictive power to the models, boosting accuracy significantly.
+
+---
+
+## 📖 Table of Contents
+
+- [🏀 Project Overview](#-project-overview)
+- [📌 Motivation & Technology](#-motivation--technology)
+- [📚 Repository Contents](#-repository-contents)
+- [🚀 Project Workflow](#-project-workflow)
+  - [Step 1: Data Exploration & Cleaning](#step-1-data-exploration--cleaning)
+  - [Step 2: Advanced Feature Engineering](#step-2-advanced-feature-engineering)
+  - [Step 3: Modeling](#step-3-modeling)
+  - [Step 4: Ensembling & Final Predictions](#step-4-ensembling--final-predictions)
+- [🏆 Kaggle Competition Results](#-kaggle-competition-results)
+- [📄 License](#-license)
+- [🤝 Citation](#-citation)
+
+---
 
 ## 📚 Repository Contents
 
@@ -35,6 +55,8 @@ We used **XGBoost**, a powerful gradient-boosted decision tree model, combined w
   - Model Training and Evaluation
   - Hyperparameter Tuning
   - Generating Kaggle Submission
+
+---
 
 ## 🚀 Project Workflow
 
@@ -56,19 +78,7 @@ We used **XGBoost**, a powerful gradient-boosted decision tree model, combined w
 - Tested multiple hyperparameter configurations and selected the best-performing model based on validation accuracy.
 - Generated final predictions for Kaggle submission, achieving our highest public (**2nd Place**) and private (**3rd Place**) leaderboard ranking.
 
-## 📖 Table of Contents
-
-- [🏀 Project Overview](#-project-overview)
-- [📌 Motivation & Technology](#-motivation--technology)
-- [📚 Repository Contents](#-repository-contents)
-- [🚀 Project Workflow](#-project-workflow)
-  - [Step 1: Data Exploration & Cleaning](#step-1-data-exploration--cleaning)
-  - [Step 2: Advanced Feature Engineering](#step-2-advanced-feature-engineering)
-  - [Step 3: Modeling](#step-3-modeling)
-  - [Step 4: Ensembling & Final Predictions](#step-4-ensembling--final-predictions)
-- [🏆 Kaggle Competition Results](#-kaggle-competition-results)
-- [📄 License](#-license)
-- [🤝 Citation](#-citation)
+---
 
 ## 🏆 Kaggle Competition Results
 - **Final Ranking:** 3rd Place (Private Leaderboard)
@@ -77,6 +87,8 @@ We used **XGBoost**, a powerful gradient-boosted decision tree model, combined w
 
 ![3rd Place](https://github.com/hungchenhsu/ccac-2025-ncaa-bracket-xgboost/blob/main/images/3rd-place.png)
 
+---
+
 ## 🖼️ Project Presentation
 
 For a full overview of this project in presentation format, please see:  
@@ -84,6 +96,8 @@ For a full overview of this project in presentation format, please see:
 
 This presentation was created by **Nimbus 2025**,  
 a team led by **Hung-Chen Hsu**, with teammates **Da Fang Lin** and **Yiran Liu**.
+
+---
 
 ## 📄 License
 
