@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find this repository helpful in your research, teaching, or other work,  
 please consider citing or linking back to the repository:
 
-Hung-Chen Hsu. NCAA Bracket Prediction for CCAC 2025 using XGBoost. GitHub, 2025.
+Hung-Chen Hsu. *NCAA Bracket Prediction for CCAC 2025 using XGBoost*. GitHub, 2025.
 Repository: https://github.com/hungchenhsu/ccac-2025-ncaa-bracket-xgboost
 
 This helps acknowledge the original work and supports open sharing in the ML community 🙌
